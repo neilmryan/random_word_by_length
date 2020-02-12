@@ -36,5 +36,4 @@ class RandomWordByLength::Word
     word
   end
 
-
 end
