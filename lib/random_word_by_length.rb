@@ -1,3 +1,7 @@
+require 'open-uri'
+require 'nokogiri'
+require 'pry'
+
 require_relative "./random_word_by_length/version"
 require_relative "./random_word_by_length/cli"
 require_relative "./random_word_by_length/word"
