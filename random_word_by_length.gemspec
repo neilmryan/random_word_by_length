@@ -13,7 +13,7 @@ Gem::Specification.new do |spec|
   spec.homepage      = "https://github.com/neilmryan/random_word_by_length"
   spec.license       = "MIT"
 
-  spec.metadata["allowed_push_host"] = "https://rubygems.org/profiles/neilmryan"
+  spec.metadata["allowed_push_host"] = "https://rubygems.org"
 
   spec.metadata["homepage_uri"] = spec.homepage
   spec.metadata["source_code_uri"] = "https://rubygems.org/profiles/neilmryan"
