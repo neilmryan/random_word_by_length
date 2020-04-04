@@ -1,8 +1,6 @@
 # RandomWordByLength
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/random_word_by_length`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+Welcome to random_word_by_length! This CLI GEM will generate random words by length and therefore (often) difficulty. You can select easy, medium or hard and you will be delivered a random word scraped from https://www.merriam-webster.com/. You will then be prompted with the option to get further details including kind of word, definition and a pointer to synonyms.
 
 ## Installation
 
@@ -22,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Navigate to the repository and run the command ruby bin/random-word-by-length, then follow the prompts!
 
 ## Development
 
@@ -32,7 +30,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/random_word_by_length. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+Bug reports and pull requests are welcome on GitHub at https://github.com/neilmryan/random_word_by_length. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
 
 ## License
 
